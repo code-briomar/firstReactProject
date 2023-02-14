@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.card {
+  padding: 1em;
+  box-shadow: -2px 3px 12px -1px rgba(143, 134, 134, 1);
+  -webkit-box-shadow: -2px 3px 12px -1px rgba(143, 134, 134, 1);
+  -moz-box-shadow: -2px 3px 12px -1px rgba(143, 134, 134, 1);
+}
+
+.photo {
+  height: 12em;
+  padding: 1.5em;
+}
+
+.btn-email{
+  margin: 5px;
+  color: #333;
+  background-color: white;
+}
+
+.btn-linkedIn{
+  margin: 5px;
+  background-color: #0072b1;
+}
